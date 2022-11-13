@@ -1,4 +1,4 @@
-# Typescript_Quiz_App
+# React Quiz Web App
 
 This is React Quiz Web App. Just try it i promise to you it is fun.
 
