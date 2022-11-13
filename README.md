@@ -49,11 +49,11 @@ http://localhost:3000/
 
 ## Output :blue_heart: Wall of Quiz
 
-![](./src/images/image 1.png)
-![](./src/images/image 2.png)
-![](./src/images/image 3.png)
-![](./src/images/image 4.png)
-
+![alt text](https://github.com/Ayush7614/Upraised-Assignment/blob/master/src/images/Image%201.png)
+![alt text](https://github.com/Ayush7614/Upraised-Assignment/blob/master/src/images/Image%202.png)
+![alt text](https://github.com/Ayush7614/Upraised-Assignment/blob/master/src/images/Image%203.png)
+![alt text](https://github.com/Ayush7614/Upraised-Assignment/blob/master/src/images/Image%204.png)
+![alt text](https://github.com/Ayush7614/Upraised-Assignment/blob/master/src/images/Image%205.png)
 
 ## Author
 
