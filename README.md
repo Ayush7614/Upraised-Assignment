@@ -47,12 +47,12 @@ Visit `http://localhost:3000/
 http://localhost:3000/
 ```
 
-## Output ## :blue_heart: Wall of Quiz
+## Output :blue_heart: Wall of Quiz
 
-![](./src/images/topmate-image 1.png)
-![](./src/images/topmate-image 2.png)
-![](./src/images/topmate-image 3.png)
-![](./src/images/topmate-image 4.png)
+![](./src/images/image 1.png)
+![](./src/images/image 2.png)
+![](./src/images/image 3.png)
+![](./src/images/image 4.png)
 
 
 ## Author
