@@ -1,6 +1,6 @@
 # Typescript_Quiz_App
 
-This is React Typescript Web App Quiz. Just try it i promise to you it is fun.
+This is React Quiz Web App. Just try it i promise to you it is fun.
 
 ## Owner
 
@@ -21,6 +21,10 @@ This is React Typescript Web App Quiz. Just try it i promise to you it is fun.
 * Creating a beautiful website and navbar.
 * View all the things what are doing this project and what is this.
 * Adding more APIS we have also add option of True/False question with calling of APIS.
+
+## :notebook: API Documentation
+
+Special Thanks to opentdb APIs please refer to the[opentdb APIs](https://opentdb.com/) and Documentation. Feel Free to use.
 
 ## :running_man: How to run locally?
 
@@ -58,6 +62,27 @@ http://localhost:3000/
 ## Author
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ayush7614&data=followers,repositories,stars,commits)](https://github.com/Ayush7614)
+
+
+Question:
+
+● This screen shows the questions to the user one after the other - Done
+● The question may include an optional image to be shown below the text - Done
+● A question may have only one correct choice - Done
+● The user must select at least one option before they can proceed to the next question - Done
+● The choices selected by the user must be submitted to the API before the next question is shown to
+the user. Along with the selected choices, you must also include how much time the user took for a
+particular question as part of the API payload. - Done
+● After the user submits the response for the last question, you’ll need to make an API request for
+finishing the test and getting the score report. - Done
+
+Report:
+● Shows the total score, and number of correct and incorrect answers. - Half Done
+● The “Start Again” button allows the user to take the quiz again from the beginning. - Done
+
+Report:
+● Shows the total score, and number of correct and incorrect answers. - Half Done
+● The “Start Again” button allows the user to take the quiz again from the beginning. - Done
 
 
 ## Quick Start
