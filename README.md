@@ -1,6 +1,6 @@
 # Typescript_Quiz_App
 
-This is React Typescript App Quiz Just try it i promise to you it is fun.
+This is React Typescript Web App Quiz. Just try it i promise to you it is fun.
 
 ## Owner
 
@@ -18,9 +18,9 @@ This is React Typescript App Quiz Just try it i promise to you it is fun.
 - APIs
 
 ## Future Scope of this Project:
-* Creating a beautiful website and navbar
-* View all the things what are doing this project and what is this
-* Adding more APIS we have also add option of True/False question with callung of APIS
+* Creating a beautiful website and navbar.
+* View all the things what are doing this project and what is this.
+* Adding more APIS we have also add option of True/False question with calling of APIS.
 
 ## :running_man: How to run locally?
 
@@ -49,7 +49,11 @@ http://localhost:3000/
 
 ## Output ## :blue_heart: Wall of Quiz
 
-<img src="./src/images/images 1.png" width="45%" height="45%" /></a>
+![](./src/images/topmate-image 1.png)
+![](./src/images/topmate-image 2.png)
+![](./src/images/topmate-image 3.png)
+![](./src/images/topmate-image 4.png)
+
 
 ## Author
 
