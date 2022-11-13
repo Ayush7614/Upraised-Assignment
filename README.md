@@ -88,15 +88,10 @@ particular question as part of the API payload. - Done
 finishing the test and getting the score report. - Done
 
 Report:
+
 ● Shows the total score, and number of correct and incorrect answers. - Half Done
 
 ● The “Start Again” button allows the user to take the quiz again from the beginning. - Done
-
-Report:
-● Shows the total score, and number of correct and incorrect answers. - Half Done
-
-● The “Start Again” button allows the user to take the quiz again from the beginning. - Done
-
 
 ## Quick Start
 
