@@ -49,7 +49,7 @@ http://localhost:3000/
 
 ## Output ## :blue_heart: Wall of Quiz
 
-<a href="https://github.com/Ayush7614/Upraised-Assignment"><img src="./src/images/images 1.png" width="45%" height="45%" /></a>
+<img src="./src/images/images 1.png" width="45%" height="45%" /></a>
 
 ## Author
 
