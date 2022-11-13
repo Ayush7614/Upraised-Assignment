@@ -2,46 +2,83 @@
 
 This is React Typescript App Quiz Just try it i promise to you it is fun.
 
-![Typescript_Quiz_App](https://socialify.git.ci/Ayush7614/Typescript_Quiz_App/)
-
-
 ## Owner
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
 
-* [Live Preview](https://typescript-quiz.herokuapp.com/)
+* [Live Preview On Vercel](https://upraised-assignment.vercel.app/)
 
-## web stack
+## Tech Stack
 - HTML
 - CSS
 - JS
 - TYPESCRIPT
 - JSON
 - React
+- APIs
+
+## Future Scope of this Project:
+* Creating a beautiful website and navbar
+* View all the things what are doing this project and what is this
+* Adding more APIS we have also add option of True/False question with callung of APIS
+
+## :running_man: How to run locally?
+
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://github.dev/Ayush7614/peerlist-readme-badge/) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg?logo=javascript)](https://github.com/Ayush7614/peerlist-readme-badge/fork)
+
+### :arrow_right: Setup
+
+1. Install all dependencies
+```bash
+npm i
+```
+2. Start the Express app
+```bash
+npm start
+```
+
+> The above command will start a local server that listens on port `3000` for connections.
+
+### :arrows_counterclockwise: Run
+
+Visit `http://localhost:3000/
+
+```bash
+http://localhost:3000/
+```
+
+## Output ## :blue_heart: Wall of Quiz
+
+<a href="https://github.com/Ayush7614/Upraised-Assignment"><img src="./src/images/images 1.png" width="45%" height="45%" /></a>
+
+## Author
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ayush7614&data=followers,repositories,stars,commits)](https://github.com/Ayush7614)
+
 
 ## Quick Start
 
 Are we missing any of your favorite features, which you think you can add to it? We invite you to contribute to this project and make it better. You may also raise an issue.
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/Ayush7614/Typescript_Quiz_App.git) repository.
+**1.**  Fork [this](https://github.com/Ayush7614/Upraised-Assignment.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_name>/Typescript_Quiz_App.git
+git clone --depth 1 https://github.com/<your_name>/Upraised-Assignment.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Typescript_Quiz_App
+cd Upraised-Assignment
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Ayush7614/Typescript_Quiz_App.git
+git remote add upstream https://github.com/Ayush7614/Upraised-Assignment.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -97,12 +134,6 @@ git push -u origin <your_branch_name>
 |                                     <a href="https://github.com/Ayush7614"><img src="https://avatars.githubusercontent.com/u/67006255?s=400&u=c0e16c3bba31328a028cfcca4b1fa7599509f905&v=4" width=150px height=150px /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/)**                                                                                    |
-
-
-## Future Scope of this Project:
-* Creating a beautiful website and navbar
-* View all the things what are doing this project and what is this
-* Adding more APIS we have also add option of True/False question with callung of APIS
 
 #### Kindly refer to future scopes for contribution
 
